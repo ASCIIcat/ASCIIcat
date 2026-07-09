@@ -1,37 +1,40 @@
 # Hey 👋 I'm Adi
 
-I'm a full-stack developer who enjoys turning weird ideas into working software.
+> *I specialize in solving problems I didn't create.*
 
-Most of my time is spent somewhere between Laravel, JavaScript, Docker, and AWS, although I have a habit of wandering off into game development, automation, and whatever shiny side project caught my attention this week.
+Welcome to my little corner of GitHub.
 
-## Currently
+Most of what you'll find here started with one of the following:
+- "I wonder if..."
+- "There has to be a better way..."
+- "This annoyed me enough that I built something."
+- "Well... now it's 2am."
+
+I'm a full-stack developer who enjoys turning weird ideas into working software. Most days that means Laravel, PHP, JavaScript, Docker and AWS. The rest of the time you'll probably find me wandering off into game development, automation, UI design, or whatever shiny rabbit hole caught my attention this week.
+
+## 🌱 Current Side Quests
 
 - 🔨 Rebuilding a company website
-- 🎮 Experimenting with Unity mobile games
-- 📖 Learning more about UI/UX design
-- ☕ Probably drinking coffee
+- 🎮 Experimenting with Unity
+- 🎨 Learning more about UI/UX
+- ☕ Consuming an unreasonable amount of coffee
 
-### Current interests
+## 🧰 Things I Enjoy Breaking (and Eventually Fixing)
 
 - 🐘 Laravel & PHP
 - ⚡ JavaScript / TypeScript
 - 🐳 Docker
 - ☁️ AWS
-- 🎮 Unity
-- 🎨 UI/UX
 - 📚 Moodle
+- 🎮 Unity
 - 🤖 Automation
-
-### Currently building
-
-- Personal side projects
-- Mobile game prototypes
-- Better developer workflows
-- Anything that sounds interesting enough to keep me awake until 2am
+- 🎨 UI/UX
 
 ---
 
-> "If there's a repetitive task, I'm probably already trying to automate it."
+> If something is repetitive, I'm probably trying to automate it.
+>
+> If something is broken, I'm probably trying to understand *why* before I fix it.
 
 ---
 
